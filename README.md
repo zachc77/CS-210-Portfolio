@@ -2,7 +2,7 @@
 
 Summarize the project and what problem it was solving.
 
-THis project was an investment claculator that shows how money grows over time. It allows users to enter values and see their balances with and without monthly deposits. The program helps with investment growth.
+This project was an investment claculator that shows how money grows over time. It allows users to enter values and see their balances with and without monthly deposits. The program helps with investment growth.
 
 What did you do particularly well?
 
